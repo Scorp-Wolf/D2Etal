@@ -502,6 +502,8 @@ function NT_LoadConfig()
 	// Cubing configuration
 	//------------------------------------------------------------------------------
 	NTConfig_Cubing = false;										// Enable Cubing?
+	
+	//NTConfig_CubingItem.push ([NTCU_ESSENSE, 70]);  // for token , if not good delete this 
 
 	//NTConfig_CubingItem.push([NTCU_GEM, 560]);					// Flawless Amethyst
 	//NTConfig_CubingItem.push([NTCU_GEM, 565]);					// Flawless Topaz
